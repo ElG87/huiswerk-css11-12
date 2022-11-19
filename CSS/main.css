@@ -75,8 +75,7 @@
 }
 
 #kol2rij4{
-    background-color: rgb(253, 132, 132);
-    
+    background-color: rgb(253, 132, 132);   
 }
 
 #kol3rij1{
@@ -136,7 +135,13 @@ img{
     border-radius: 40px;
     min-width: 100px;
     max-width: 200px;
-   
+}
+
+p{
+    color: white;
+    background-color: rgba(77, 70, 70, 0.226);
+    display: inline-block;
+    padding: 5px;
 }
 
 footer{
