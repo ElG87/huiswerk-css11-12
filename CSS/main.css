@@ -9,6 +9,7 @@
     border-style: solid;
     text-align: center;
 }
+
 #tabel th, #tabel td{
     border-width: 2px;
     border-style: solid;
@@ -153,4 +154,8 @@ footer{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
     padding: 5px;
+}
+
+.footertekst{
+    padding-top: 10px;
 }
